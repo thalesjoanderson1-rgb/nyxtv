@@ -1,10 +1,10 @@
 {
-  "versionCode": 126,
-  "versionName": "1.0.126",
-  "publishedAt": "2026-11-24T17:36:06.335Z",
-  "notes": "Icones 18px, teste sem aviso de atualizacao, chip acima do rodape",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=126",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=126",
-  "sha256": "FF98F2F5A88082E118722E8E4888BA37A1ED492146112D0B9D8DA71F2569FD2C",
-  "sha256Test": "C89D3AC1772F0B4E85B48F5B876E826FA5408287371362917FD81A6E1082173C"
+  "versionCode": 128,
+  "versionName": "1.0.128",
+  "publishedAt": "2026-11-24T17:38:01.633Z",
+  "notes": "Centralizacao absoluta dos icones",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=128",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=128",
+  "sha256": "8F7F8CA49574AF8372B8CC24F9C1BC6E7D7A8811F093EA249B10F8A0057A2EA0",
+  "sha256Test": "32682E653036DA89F4626FA14532642761897B3036D76B15B30930FF89D04E68"
 }
