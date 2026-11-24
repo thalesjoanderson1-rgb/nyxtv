@@ -1,0 +1,10 @@
+{
+  "versionCode": 97,
+  "versionName": "1.0.97",
+  "publishedAt": "2026-11-24T15:03:05.677Z",
+  "notes": "Configuracoes com atualizacoes, capas corrigidas, hero fixo, verificacao de canais mais precisa.",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk",
+  "sha256": "AE7C34364B5CDDBAD692C86C107758D633B5339D0F1458A5CBD36E357B329D1B",
+  "sha256Test": "A9A0CDB278D3F41063C3F63C2FF7DD766239D2F100B8D0DCA9D8AA092B85FB1E"
+}
