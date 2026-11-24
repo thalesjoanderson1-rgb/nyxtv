@@ -1,10 +1,10 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.119",
-  "publishedAt": "2026-11-24T17:06:46.259Z",
-  "notes": "Modo leve para TV box e ajustes de desempenho",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=119",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=119",
-  "sha256": "77913F75EF6F3D9F88A02701203E08CF2DD3157835B48ECD84B5754B8A89B3A7",
-  "sha256Test": "FFF5F2360BCB9FB5DB2F95E8E9F1BFE3CA32D802B387CB7275CCA1B55314ACFD"
+  "versionCode": 123,
+  "versionName": "1.0.123",
+  "publishedAt": "2026-11-24T17:32:01.115Z",
+  "notes": "Video do destaque de volta e icones simetricos",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=123",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=123",
+  "sha256": "50FBF54A45810F36192985E5F4F30B788F4C6EAF323D37D1114A6D2BE7346FBB",
+  "sha256Test": "120F6261EE4AF001CCC5FDC7D774C1389C12AC25280C9AA954CEC2C4307BA9D0"
 }
