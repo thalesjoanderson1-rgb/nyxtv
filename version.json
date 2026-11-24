@@ -1,10 +1,10 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.106",
-  "publishedAt": "2026-11-24T16:08:40.253Z",
+  "versionCode": 105,
+  "versionName": "1.0.105",
+  "publishedAt": "2026-11-24T16:15:21.169Z",
   "notes": "Restaura index.html e instalador nativo de atualizacao",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=106",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=106",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=105",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=105",
   "sha256": "A21B44B891993521D790592ED4D362FF1A5229CFC5885D8FABF60A839ED3F351",
   "sha256Test": "96619651E5EA0F2FDDC2560E3A451367C619B21B1D2D386391F264B2E981CA5E"
 }
