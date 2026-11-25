@@ -1,10 +1,10 @@
 {
-  "versionCode": 155,
-  "versionName": "1.0.155",
-  "publishedAt": "2026-11-25T18:47:23.262Z",
-  "notes": "Interface nativa, ativacao nativa, ajustes, desempenho e navegacao por controle",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=155",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=155",
-  "sha256": "A148C0D2DCF8495EB19C0E1491345FD5B058613534F0829EB536818F0A402E2F",
-  "sha256Test": "0D588566945FD53E7A5E5B87F08F4015342BC3830C94A5D23B3ED09CB937440D"
+  "versionCode": 159,
+  "versionName": "1.0.159",
+  "publishedAt": "2026-11-25T20:51:03.344Z",
+  "notes": "Chave vitalicia, ativacao nativa e interface nativa no oficial",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=159",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=159",
+  "sha256": "351C33738621C990D2C7AF4B1C24E3401DEBC61A58E110E0858920D1821B4B94",
+  "sha256Test": "D09CDD2D4884EBE5320D250C297C093BE4FA3BC2CB2BA1C22DDB9414270A9598"
 }
