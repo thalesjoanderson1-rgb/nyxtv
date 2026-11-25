@@ -1,10 +1,10 @@
 {
-  "versionCode": 128,
-  "versionName": "1.0.128",
-  "publishedAt": "2026-11-24T17:38:01.633Z",
-  "notes": "Centralizacao absoluta dos icones",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=128",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=128",
-  "sha256": "8F7F8CA49574AF8372B8CC24F9C1BC6E7D7A8811F093EA249B10F8A0057A2EA0",
-  "sha256Test": "32682E653036DA89F4626FA14532642761897B3036D76B15B30930FF89D04E68"
+  "versionCode": 155,
+  "versionName": "1.0.155",
+  "publishedAt": "2026-11-25T18:47:23.262Z",
+  "notes": "Interface nativa, ativacao nativa, ajustes, desempenho e navegacao por controle",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=155",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=155",
+  "sha256": "A148C0D2DCF8495EB19C0E1491345FD5B058613534F0829EB536818F0A402E2F",
+  "sha256Test": "0D588566945FD53E7A5E5B87F08F4015342BC3830C94A5D23B3ED09CB937440D"
 }
