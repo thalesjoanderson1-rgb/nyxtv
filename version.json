@@ -1,10 +1,10 @@
 {
-  "versionCode": 172,
-  "versionName": "1.0.172",
-  "publishedAt": "2026-11-26T01:15:20.398Z",
-  "notes": "Licenca por aparelho (v5), anti-repack, anti-rollback e ajustes",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=172",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=172",
-  "sha256": "9E21E04245ED116AEF58BE8402F0336D5E2CCFEF66A3D1265F278FD2C23DBBC5",
-  "sha256Test": "F83672EFF9ACE5510C13C63707668704A1F0E51821B2C7B97C9C4C474E7A4155"
+  "versionCode": 174,
+  "versionName": "1.0.174",
+  "publishedAt": "2026-11-26T01:39:52.823Z",
+  "notes": "Atualizacao automatica no oficial e no teste + licenca v5 por aparelho",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=174",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=174",
+  "sha256": "45A719DCFDA515EA57B9B7D41FCE7E1EF28B76B64DF42CEC9E8EFEE593FBB3F3",
+  "sha256Test": "67C45A62D98930D89E04B45041689B15DFE8DF431744DED3AD64912102562EFC"
 }
