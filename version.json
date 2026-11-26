@@ -1,10 +1,10 @@
 {
-  "versionCode": 181,
-  "versionName": "1.0.181",
-  "publishedAt": "2026-11-26T03:13:30.484Z",
+  "versionCode": 176,
+  "versionName": "1.0.176",
+  "publishedAt": "2026-11-26T04:01:37.016Z",
   "notes": "Corrige botao de atualizacao e ativa checagem no teste",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=181",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=181",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=176",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=176",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
   "sha256Test": "93517BABEF2EBBC5FCCA9EA6D9F7A8058079CF48735DA72A64B30E5A53B3FB29"
 }
