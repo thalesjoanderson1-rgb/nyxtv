@@ -1,10 +1,10 @@
 {
-  "versionCode": 270,
-  "versionName": "1.0.270",
-  "publishedAt": "2026-11-27T21:18:28.962Z",
-  "notes": "Grupo Jogos: eventos ao vivo do Every Cine (Bundesliga, Serie A, Ligue 1)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=270",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=270",
+  "versionCode": 271,
+  "versionName": "1.0.271",
+  "publishedAt": "2026-11-27T21:26:07.318Z",
+  "notes": "Grupo Jogos agora vem do jogos.json (lista do dia, sem precisar de APK novo)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=271",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=271",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "7E7DAAA52F8C7505488DDA33BA23EFF48E33D567BEEC7BAF765EA431F0280A46"
+  "sha256Test": "6CFA7C6378D0C06E90EFF4B1A434C95DB0309C8ED59AF351C07E646E6E666DD3"
 }
