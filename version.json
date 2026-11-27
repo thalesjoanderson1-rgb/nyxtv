@@ -1,10 +1,10 @@
 {
-  "versionCode": 202,
-  "versionName": "1.0.202",
-  "publishedAt": "2026-11-27T05:11:41.013Z",
-  "notes": "Nav simplificada: Inicio + Filmes/Series/Animes (abas de canal removidas)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=202",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=202",
+  "versionCode": 203,
+  "versionName": "1.0.203",
+  "publishedAt": "2026-11-27T05:15:18.368Z",
+  "notes": "Nav modelo B (sublinhado) + lupa vetorial + cards da home ajustados",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=203",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=203",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "337440D195E06A5AC5FCA0160A83362174345FBDEE5F03D5EEBAD6440CB244B1"
+  "sha256Test": "EA4895DF586B1D22915E539A3949CE1391DB6A652F477CE3DD214A5ACC5A77B3"
 }
