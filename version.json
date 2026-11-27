@@ -1,10 +1,10 @@
 {
-  "versionCode": 265,
-  "versionName": "1.0.265",
-  "publishedAt": "2026-11-27T19:35:43.605Z",
-  "notes": "Volta a usar a fonte original do canal (a escolha por banda pegava fonte errada)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=265",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=265",
+  "versionCode": 266,
+  "versionName": "1.0.266",
+  "publishedAt": "2026-11-27T19:48:29.555Z",
+  "notes": "Volta a montar a home de uma vez (sem fileira sob demanda) e usa a fonte original do canal",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=266",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=266",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "B5F32D84A376EF1638140AF066FF3D3D9848210E96186DCFB61298893A7D3FEC"
+  "sha256Test": "1001552F30CC9ABD28561EBC868980A59864FF1D6D378029E3E927260AB38A3F"
 }
