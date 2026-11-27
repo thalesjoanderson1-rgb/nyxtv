@@ -1,10 +1,10 @@
 {
-  "versionCode": 257,
-  "versionName": "1.0.257",
-  "publishedAt": "2026-11-27T18:37:34.144Z",
-  "notes": "Abertura rapida: fileiras montam sob demanda (6 cards + 8 de folga)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=257",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=257",
+  "versionCode": 259,
+  "versionName": "1.0.259",
+  "publishedAt": "2026-11-27T18:45:18.383Z",
+  "notes": "Esquerda no 1o card nao solta o foco; logos com retry e iniciais de reserva",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=259",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=259",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "6F177778DBAC85294EB916E7D03F55288B44CAA62BB2DF3A14AFE4213C130D6C"
+  "sha256Test": "08851F1EC47A3EF2A4401B383D7A58D84D525CF6A544F9F32F197414BF7832A8"
 }
