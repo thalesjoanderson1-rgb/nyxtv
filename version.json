@@ -1,10 +1,10 @@
 {
-  "versionCode": 194,
-  "versionName": "1.0.194",
-  "publishedAt": "2026-11-27T03:39:36.652Z",
-  "notes": "Grade 6 colunas nas abas, status corrigido (instavel 20s / segmento), qualidade maxima no player",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=194",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=194",
+  "versionCode": 176,
+  "versionName": "1.0.176",
+  "publishedAt": "2026-11-27T04:14:32.326Z",
+  "notes": "Simbolos e acentos corrigidos; grade 6 colunas; carregando animado; status e qualidade",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=176",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=176",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "2C9A3DE78A6C26B7BA89296D7DABC76B842D0271F07B0C0C88377BDFCDE836ED"
+  "sha256Test": "B9B0141DFC110186F2EC572EEB2313DDA394F79C44C6EDEFADED0DB783EECEE4"
 }
