@@ -1,10 +1,10 @@
 {
-  "versionCode": 222,
-  "versionName": "1.0.222",
-  "publishedAt": "2026-11-27T06:25:10.430Z",
-  "notes": "Home preservada ao abrir VOD (volta instantanea)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=222",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=222",
+  "versionCode": 223,
+  "versionName": "1.0.223",
+  "publishedAt": "2026-11-27T06:40:11.338Z",
+  "notes": "Splash removido do overlay ao terminar a montagem",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=223",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=223",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "CFEF6AC034CDFF1056E2CFD46E91AEDC8F3570BB5C2113FFCC21AABBFFB24C13"
+  "sha256Test": "BAA382F06298AE641133E28DE30700F10A5A94672F8F609CF7771C0805B43649"
 }
