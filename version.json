@@ -1,10 +1,10 @@
 {
-  "versionCode": 227,
-  "versionName": "1.0.227",
-  "publishedAt": "2026-11-27T13:54:37.034Z",
-  "notes": "Corrige OutOfMemory (imagens reduzidas) - navegacao estavel",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=227",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=227",
+  "versionCode": 230,
+  "versionName": "1.0.230",
+  "publishedAt": "2026-11-27T14:33:05.695Z",
+  "notes": "Splash cobre a montagem; home aparece completa",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=230",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=230",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "DBD227A27004B01C6039C1C8D233A94E97FB7FCEC83472DF90FCEC0D1B0CB0B6"
+  "sha256Test": "770F4103C5F86590921034B628921A124679FE9CF98484C622CEBFCD16E848E8"
 }
