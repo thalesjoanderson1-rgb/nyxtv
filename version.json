@@ -1,10 +1,10 @@
 {
-  "versionCode": 230,
-  "versionName": "1.0.230",
-  "publishedAt": "2026-11-27T14:33:05.695Z",
-  "notes": "Splash cobre a montagem; home aparece completa",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=230",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=230",
+  "versionCode": 231,
+  "versionName": "1.0.231",
+  "publishedAt": "2026-11-27T14:49:52.001Z",
+  "notes": "Navegacao: mesma coluna no vertical, wrap lateral na fileira, preview sem foco",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=231",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=231",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "770F4103C5F86590921034B628921A124679FE9CF98484C622CEBFCD16E848E8"
+  "sha256Test": "B550995E3C04CBBA95EBA32DA74C5F41A3D5ED25CA3A70A7FABEB282A9C92330"
 }
