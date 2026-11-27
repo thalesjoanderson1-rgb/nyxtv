@@ -1,10 +1,10 @@
 {
-  "versionCode": 181,
-  "versionName": "1.0.181",
-  "publishedAt": "2026-11-27T01:16:47.672Z",
-  "notes": "Every Cine: 248 canais novos + 313 fontes extras (679 no total)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=181",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=181",
+  "versionCode": 182,
+  "versionName": "1.0.182",
+  "publishedAt": "2026-11-27T01:40:45.853Z",
+  "notes": "Canais organizados por popularidade e sequencias (677 canais)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=182",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=182",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "EAD436EEB9811B77EC3E7E1DC2E319452D8B369A56F734E0EE452F8222C668C0"
+  "sha256Test": "9C765DA2DE8EE52A454E358763F7D390277AA9A0804F89F4F1B28862F4ACF4C1"
 }
