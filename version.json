@@ -1,10 +1,10 @@
 {
-  "versionCode": 262,
-  "versionName": "1.0.262",
-  "publishedAt": "2026-11-27T19:20:42.193Z",
-  "notes": "Numeracao pela ordem da home: TNT/TNT SPORTS entram na sequencia de Esportes",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=262",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=262",
+  "versionCode": 263,
+  "versionName": "1.0.263",
+  "publishedAt": "2026-11-27T19:22:52.526Z",
+  "notes": "Status real: sonda o canal e marca NO AR/FORA de verdade",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=263",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=263",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "866D359616D1D7A5F0D05C6D5F63D137F478EEE80B496AC1EA39DCDD60480CBF"
+  "sha256Test": "95D2542692F98ECADC100AAE8DDECE460B49D9DFFD28006035BCB6AE2DF1BB56"
 }
