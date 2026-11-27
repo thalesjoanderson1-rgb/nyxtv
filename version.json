@@ -1,10 +1,10 @@
 {
-  "versionCode": 213,
-  "versionName": "1.0.213",
-  "publishedAt": "2026-11-27T05:52:45.175Z",
-  "notes": "Aba VOD mostra Carregando catalogo em vez de tela vazia",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=213",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=213",
+  "versionCode": 214,
+  "versionName": "1.0.214",
+  "publishedAt": "2026-11-27T05:56:17.381Z",
+  "notes": "Splash cobre a montagem e revela a home pronta",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=214",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=214",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "78B7879B9E8445B2B4DB08F8EB306B7DB333C7EAD820FD2AB5FB7D439F5A77F6"
+  "sha256Test": "B36DA206E7ECC0A02C006DA1024291B4ECDFB33DC927CCF5911F255DED6DAAF1"
 }
