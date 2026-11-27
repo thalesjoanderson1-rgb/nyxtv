@@ -1,10 +1,10 @@
 {
-  "versionCode": 224,
-  "versionName": "1.0.224",
-  "publishedAt": "2026-11-27T06:49:28.174Z",
-  "notes": "Home monta desanexada (abertura muito mais rapida)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=224",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=224",
+  "versionCode": 226,
+  "versionName": "1.0.226",
+  "publishedAt": "2026-11-27T06:52:14.949Z",
+  "notes": "Cards sem Glide (abertura mais rapida)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=226",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=226",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
   "sha256Test": "FBA0F682C4EE5AAD7CD392F08FA603DB1AAD5E5A585645D5AD71C223591F6F90"
 }
