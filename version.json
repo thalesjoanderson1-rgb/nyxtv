@@ -1,10 +1,10 @@
 {
-  "versionCode": 214,
-  "versionName": "1.0.214",
-  "publishedAt": "2026-11-27T05:56:17.381Z",
-  "notes": "Splash cobre a montagem e revela a home pronta",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=214",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=214",
+  "versionCode": 216,
+  "versionName": "1.0.216",
+  "publishedAt": "2026-11-27T06:00:42.821Z",
+  "notes": "Abas de VOD sem hero de canal; splash antes da montagem",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=216",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=216",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
   "sha256Test": "B36DA206E7ECC0A02C006DA1024291B4ECDFB33DC927CCF5911F255DED6DAAF1"
 }
