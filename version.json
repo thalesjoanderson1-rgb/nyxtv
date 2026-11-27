@@ -1,10 +1,10 @@
 {
-  "versionCode": 252,
-  "versionName": "1.0.252",
-  "publishedAt": "2026-11-27T16:12:09.510Z",
-  "notes": "Numeracao dos canais (1..677), digita o numero e troca de canal, navegacao com controle corrigida, espacamento dos cards, Play Protect desligavel",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=252",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=252",
+  "versionCode": 253,
+  "versionName": "1.0.253",
+  "publishedAt": "2026-11-27T16:39:20.874Z",
+  "notes": "Faixa do numero some em 7s e apaga em qualquer tecla",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=253",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=253",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "EC7C93B08FE12C2B1AAA7ABD9EFB6135293FFB0C2938E6955D9D18AF31448D1C"
+  "sha256Test": "E6205E3E02FA43C5DE4020D9B1D8FBD926691E5F3396C6BDD1B725BC2E8B5561"
 }
