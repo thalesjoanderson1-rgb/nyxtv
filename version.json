@@ -1,10 +1,10 @@
 {
-  "versionCode": 185,
-  "versionName": "1.0.185",
-  "publishedAt": "2026-11-27T02:46:53.021Z",
-  "notes": "Ordem final: Globo+afiliadas, Band/SBT/Record; Disney+/Paramount+/Prime em Esportes",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=185",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=185",
+  "versionCode": 186,
+  "versionName": "1.0.186",
+  "publishedAt": "2026-11-27T03:08:04.898Z",
+  "notes": "Abertura mais rapida (24 por fileira + pool de imagens) e correcoes de navegacao",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=186",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=186",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "C6BF03A7387FEF39CB28D2367064CCC3D481F230F1D3AC4F3AC8BEC473F3CB96"
+  "sha256Test": "075885313D174DF8CDD7C90F041BCD0DB793F2938941C0AD2DDF6D4E6B72B039"
 }
