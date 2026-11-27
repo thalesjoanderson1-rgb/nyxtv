@@ -1,10 +1,10 @@
 {
-  "versionCode": 209,
-  "versionName": "1.0.209",
-  "publishedAt": "2026-11-27T05:36:10.572Z",
-  "notes": "Corrige splash preso; tela libera rapido",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=209",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=209",
+  "versionCode": 210,
+  "versionName": "1.0.210",
+  "publishedAt": "2026-11-27T05:39:59.502Z",
+  "notes": "Corrige tela travada no splash (home volta a abrir)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=210",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=210",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "651347CF66A8E129C1A542211D0B765CC85F32A9637F6AE811F407A03B2D3819"
+  "sha256Test": "E48418E721DD0758E703AB8FFC46693B145879AEBD8A64DE1678B47BF8A6A69A"
 }
