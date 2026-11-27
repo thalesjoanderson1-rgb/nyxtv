@@ -1,10 +1,10 @@
 {
-  "versionCode": 212,
-  "versionName": "1.0.212",
-  "publishedAt": "2026-11-27T05:49:45.055Z",
-  "notes": "Home: 2 fileiras na hora, resto em seguida (sem tela preta)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=212",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=212",
+  "versionCode": 213,
+  "versionName": "1.0.213",
+  "publishedAt": "2026-11-27T05:52:45.175Z",
+  "notes": "Aba VOD mostra Carregando catalogo em vez de tela vazia",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=213",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=213",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "4FFC7F69999959C885ED467FB416464358F112AA2FDCCC8A865915BF57E99D20"
+  "sha256Test": "78B7879B9E8445B2B4DB08F8EB306B7DB333C7EAD820FD2AB5FB7D439F5A77F6"
 }
