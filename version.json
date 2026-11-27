@@ -1,10 +1,10 @@
 {
-  "versionCode": 211,
-  "versionName": "1.0.211",
-  "publishedAt": "2026-11-27T05:45:35.777Z",
-  "notes": "Canais de volta na home (montagem direta)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=211",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=211",
+  "versionCode": 212,
+  "versionName": "1.0.212",
+  "publishedAt": "2026-11-27T05:49:45.055Z",
+  "notes": "Home: 2 fileiras na hora, resto em seguida (sem tela preta)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=212",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=212",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "F199C218091213F32517BC0895174EA7F50F35B295B0B1003978EAB173423280"
+  "sha256Test": "4FFC7F69999959C885ED467FB416464358F112AA2FDCCC8A865915BF57E99D20"
 }
