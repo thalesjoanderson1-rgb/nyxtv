@@ -1,10 +1,10 @@
 {
-  "versionCode": 255,
-  "versionName": "1.0.255",
-  "publishedAt": "2026-11-27T17:57:09.658Z",
-  "notes": "Faixa do canal: uma so, 5s e some. Volta a trocar canal no controle em tela cheia",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=255",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=255",
+  "versionCode": 257,
+  "versionName": "1.0.257",
+  "publishedAt": "2026-11-27T18:37:34.144Z",
+  "notes": "Abertura rapida: fileiras montam sob demanda (6 cards + 8 de folga)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=257",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=257",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "1DF2B069BF3AB1FAE6DDE403A33B0AE386D7F9268B46168EBCC96EE0F759E969"
+  "sha256Test": "6F177778DBAC85294EB916E7D03F55288B44CAA62BB2DF3A14AFE4213C130D6C"
 }
