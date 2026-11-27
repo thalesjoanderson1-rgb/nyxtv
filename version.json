@@ -1,10 +1,10 @@
 {
-  "versionCode": 259,
-  "versionName": "1.0.259",
-  "publishedAt": "2026-11-27T18:45:18.383Z",
-  "notes": "Esquerda no 1o card nao solta o foco; logos com retry e iniciais de reserva",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=259",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=259",
+  "versionCode": 260,
+  "versionName": "1.0.260",
+  "publishedAt": "2026-11-27T19:06:45.367Z",
+  "notes": "Escolhe a fonte de maior banda do canal antes de tocar (fallback para a ordem atual)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=260",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=260",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "08851F1EC47A3EF2A4401B383D7A58D84D525CF6A544F9F32F197414BF7832A8"
+  "sha256Test": "42E05FBAAE14BE615ED365E9D5E94BB271B54D690ECACEE5D095BAF86587E903"
 }
