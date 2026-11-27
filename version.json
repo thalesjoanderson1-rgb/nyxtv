@@ -1,10 +1,10 @@
 {
-  "versionCode": 206,
-  "versionName": "1.0.206",
-  "publishedAt": "2026-11-27T05:24:18.151Z",
-  "notes": "Splash modelo A (NyxTV pulsando) e nav so Inicio + VOD",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=206",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=206",
+  "versionCode": 207,
+  "versionName": "1.0.207",
+  "publishedAt": "2026-11-27T05:28:33.251Z",
+  "notes": "Cards sem fio na borda; splash modelo A; nav Inicio + VOD",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=207",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=207",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "C0B13D2B3992F3E71984BB11C36637C772805EF2C2BBB16241D6D3DF33113CE6"
+  "sha256Test": "7A68A495CB72DDE668103F43318951D8B6134C09E1CD174E1C6517F76BF42163"
 }
