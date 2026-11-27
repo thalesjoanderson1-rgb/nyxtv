@@ -1,10 +1,10 @@
 {
-  "versionCode": 266,
-  "versionName": "1.0.266",
-  "publishedAt": "2026-11-27T19:48:29.555Z",
-  "notes": "Volta a montar a home de uma vez (sem fileira sob demanda) e usa a fonte original do canal",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=266",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=266",
+  "versionCode": 268,
+  "versionName": "1.0.268",
+  "publishedAt": "2026-11-27T20:17:56.441Z",
+  "notes": "Home com lista reciclada (abre muito mais rapido) + status mais preciso",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=268",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=268",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "1001552F30CC9ABD28561EBC868980A59864FF1D6D378029E3E927260AB38A3F"
+  "sha256Test": "E4A4E5801FC282D574C46C2AAE54607870D50EC8ABC49B1FA77CE372CFC95390"
 }
