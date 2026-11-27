@@ -1,10 +1,10 @@
 {
-  "versionCode": 216,
-  "versionName": "1.0.216",
-  "publishedAt": "2026-11-27T06:04:20.707Z",
-  "notes": "Splash na abertura; VOD sem hero de canal",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=216",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=216",
+  "versionCode": 217,
+  "versionName": "1.0.217",
+  "publishedAt": "2026-11-27T06:08:57.713Z",
+  "notes": "Voltar do VOD para Inicio sem tela de carregamento",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=217",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=217",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
   "sha256Test": "35333C37DA70C52AED3DAF6D4C3251CFCA17693B00C084779219BEB355A66F42"
 }
