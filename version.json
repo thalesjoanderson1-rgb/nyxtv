@@ -1,10 +1,10 @@
 {
-  "versionCode": 260,
-  "versionName": "1.0.260",
-  "publishedAt": "2026-11-27T19:06:45.367Z",
-  "notes": "Escolhe a fonte de maior banda do canal antes de tocar (fallback para a ordem atual)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=260",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=260",
+  "versionCode": 261,
+  "versionName": "1.0.261",
+  "publishedAt": "2026-11-27T19:18:10.052Z",
+  "notes": "TNT e TNT SPORTS 1-4 no grupo Esportes; status corrigido",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=261",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=261",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "42E05FBAAE14BE615ED365E9D5E94BB271B54D690ECACEE5D095BAF86587E903"
+  "sha256Test": "875C1869632AEF2DAFE12C73E55325C8A6C1C641D66401EC6D2FB4F68D4316FC"
 }
