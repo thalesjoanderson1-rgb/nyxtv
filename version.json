@@ -1,10 +1,10 @@
 {
-  "versionCode": 220,
-  "versionName": "1.0.220",
-  "publishedAt": "2026-11-27T06:20:04.885Z",
-  "notes": "Remove aviso de catalogo ao voltar para Inicio",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=220",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=220",
+  "versionCode": 221,
+  "versionName": "1.0.221",
+  "publishedAt": "2026-11-27T06:22:04.383Z",
+  "notes": "Aba VOD sem texto de carregamento",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=221",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=221",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "400B1F5406E9231B8EB64C58AEEA21CDD877A9D9FFBA4A442871FD07F8539C0B"
+  "sha256Test": "98AD8A64F7A7F5040E4B7DE9C0F33B9F6DB6C6AB92DEBA115BFAC8DFC5E82B62"
 }
