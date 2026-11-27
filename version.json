@@ -1,10 +1,10 @@
 {
-  "versionCode": 205,
-  "versionName": "1.0.205",
-  "publishedAt": "2026-11-27T05:20:50.602Z",
-  "notes": "Splash cobrindo a tela toda; nav so Inicio + VOD",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=205",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=205",
+  "versionCode": 206,
+  "versionName": "1.0.206",
+  "publishedAt": "2026-11-27T05:24:18.151Z",
+  "notes": "Splash modelo A (NyxTV pulsando) e nav so Inicio + VOD",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=206",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=206",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "540400347488D465EAA35D1F824D63B4C54401D32F8FEB7E474532078C593940"
+  "sha256Test": "C0B13D2B3992F3E71984BB11C36637C772805EF2C2BBB16241D6D3DF33113CE6"
 }
