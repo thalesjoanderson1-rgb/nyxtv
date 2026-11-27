@@ -1,10 +1,10 @@
 {
-  "versionCode": 176,
-  "versionName": "1.0.176",
-  "publishedAt": "2026-11-27T06:13:37.662Z",
+  "versionCode": 218,
+  "versionName": "1.0.218",
+  "publishedAt": "2026-11-27T06:13:56.331Z",
   "notes": "Volta do VOD sem recarregar a home",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=176",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=176",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=218",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=218",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
   "sha256Test": "682638A65386AFC11FA35C5523606B56737ED24746C060C04EF6FDF615FF4D7C"
 }
