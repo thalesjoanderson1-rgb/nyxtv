@@ -1,10 +1,10 @@
 {
-  "versionCode": 269,
-  "versionName": "1.0.269",
-  "publishedAt": "2026-11-27T21:00:34.280Z",
-  "notes": "Espacamento dos cards na lista reciclada corrigido",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=269",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=269",
+  "versionCode": 270,
+  "versionName": "1.0.270",
+  "publishedAt": "2026-11-27T21:18:28.962Z",
+  "notes": "Grupo Jogos: eventos ao vivo do Every Cine (Bundesliga, Serie A, Ligue 1)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=270",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=270",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "2B25B54E1CBCA0EC50E2D3E23F5F1AE923277E03A24C9CEF14A75C72EE5B1850"
+  "sha256Test": "7E7DAAA52F8C7505488DDA33BA23EFF48E33D567BEEC7BAF765EA431F0280A46"
 }
