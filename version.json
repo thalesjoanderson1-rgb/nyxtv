@@ -1,10 +1,10 @@
 {
-  "versionCode": 182,
-  "versionName": "1.0.182",
-  "publishedAt": "2026-11-27T01:40:45.853Z",
-  "notes": "Canais organizados por popularidade e sequencias (677 canais)",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=182",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=182",
+  "versionCode": 183,
+  "versionName": "1.0.183",
+  "publishedAt": "2026-11-27T01:56:43.868Z",
+  "notes": "Disney+/Paramount+/Prime Video em Esportes e sequencias unificadas",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=183",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=183",
   "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
-  "sha256Test": "9C765DA2DE8EE52A454E358763F7D390277AA9A0804F89F4F1B28862F4ACF4C1"
+  "sha256Test": "A2FFFB350741EE92D47A47DB20371D09B539A07D1462B270628E531664DE0C50"
 }
