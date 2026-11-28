@@ -1,10 +1,10 @@
 {
-  "versionCode": 271,
-  "versionName": "1.0.271",
-  "publishedAt": "2026-11-28T00:49:15.757Z",
-  "notes": "Numeracao pela home, TNT em Esportes, status real, lista reciclada, grupo Jogos",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=271",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=271",
-  "sha256": "1A4B89288C857F18D2856805E11DFB024BC150F79B5CD9B770E2DE98144DF27D",
-  "sha256Test": "6CFA7C6378D0C06E90EFF4B1A434C95DB0309C8ED59AF351C07E646E6E666DD3"
+  "versionCode": 272,
+  "versionName": "1.0.272",
+  "publishedAt": "2026-11-28T01:20:02.914Z",
+  "notes": "Atualizacao: 3 espelhos do manifest (GitHub, jsDelivr, raw) - corrige 'nao consegui consultar'",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=272",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=272",
+  "sha256": "300A481BB00E639908247828BF59BC6E702AC74FC28F1218BE32A4D8402DE972",
+  "sha256Test": "FC83086BC32E321E486C1223F7F4E66A3E67F2FF8EA94E919D3DF5102E2E4600"
 }
