@@ -1,10 +1,10 @@
 {
   "versionCode": 271,
   "versionName": "1.0.271",
-  "publishedAt": "2026-11-27T21:26:07.318Z",
-  "notes": "Grupo Jogos agora vem do jogos.json (lista do dia, sem precisar de APK novo)",
+  "publishedAt": "2026-11-28T00:49:15.757Z",
+  "notes": "Numeracao pela home, TNT em Esportes, status real, lista reciclada, grupo Jogos",
   "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=271",
   "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=271",
-  "sha256": "A3F787F6DD7862D046B973CE6A9AEA7A3F77E61B2D5A38F0C983965B1309FDD7",
+  "sha256": "1A4B89288C857F18D2856805E11DFB024BC150F79B5CD9B770E2DE98144DF27D",
   "sha256Test": "6CFA7C6378D0C06E90EFF4B1A434C95DB0309C8ED59AF351C07E646E6E666DD3"
 }
