@@ -1,10 +1,10 @@
 {
-  "versionCode": 272,
-  "versionName": "1.0.272",
-  "publishedAt": "2026-11-28T01:20:02.914Z",
-  "notes": "Atualizacao: 3 espelhos do manifest (GitHub, jsDelivr, raw) - corrige 'nao consegui consultar'",
-  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=272",
-  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=272",
-  "sha256": "300A481BB00E639908247828BF59BC6E702AC74FC28F1218BE32A4D8402DE972",
-  "sha256Test": "FC83086BC32E321E486C1223F7F4E66A3E67F2FF8EA94E919D3DF5102E2E4600"
+  "versionCode": 273,
+  "versionName": "1.0.273",
+  "publishedAt": "2026-11-28T01:27:46.389Z",
+  "notes": "Teste de atualizacao automatica (espelhos do manifest)",
+  "apk": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV.apk?v=273",
+  "apkTest": "https://thalesjoanderson1-rgb.github.io/nyxtv/NyxTV-teste.apk?v=273",
+  "sha256": "02E1CD2E8BC4F1DE477E6BCC0106ABCF6DDDDD31BE35282F5422B7C94E8A4440",
+  "sha256Test": "1B54ACE520E744A2541E47668E0ABAC6EDC515FF009BF593F589D0F780839CCE"
 }
